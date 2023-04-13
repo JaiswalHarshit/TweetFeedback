@@ -1,1 +1,0 @@
-Lot of bugs in the software. ABC module is taking a lot of time to load. This has been a pain area for XYZ company. Screen keeps loading for approximately 5 mins before it could render the data. Scheduling has a lot of issues which is causing delay in payroll.

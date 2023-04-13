@@ -1,4 +1,0 @@
-Scheduling has a lot of issues which is causing delay in payroll.
-ABC module takes lot of time to start.
-New servers are offline.
-Downtime is very high.
